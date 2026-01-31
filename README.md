@@ -192,7 +192,7 @@ The visualizations support:
 - **Download** as PNG directly from the plot
 
 <p align="center">
-  <img src="docs/age_effects_preview.png" width="80%" alt="Age Effects Visualization">
+  <img src="docs/plot_05_competition.png" width="80%" alt="Age Effects Visualization">
 </p>
 
 *Developmental changes in word recognition - older children show faster and more accurate recognition*
