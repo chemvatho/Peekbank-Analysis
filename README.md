@@ -55,7 +55,7 @@ Children view two images (target and distractor) while hearing a spoken label. E
 
 Click the badge below to run the analysis directly in Google Colab - no installation required!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/peekbank-analysis/blob/main/Peekbank_Complete_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chemvatho/peekbank-analysis/blob/main/Peekbank_Complete_Analysis.ipynb)
 
 ### Option 2: Local Installation
 
@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Created by [Your Name]
+Created by [Chem Vatho]
 
 ---
 
